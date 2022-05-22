@@ -1,0 +1,30 @@
+* {
+
+font-family: 'Macondo', cursive;
+
+}
+
+body {
+
+    background-image: url(imagenes/imagen-fondo-campo.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    
+
+}
+
+header{
+
+    margin: 10px;
+    padding: 10px;
+    display: flex;
+    justify-content:center
+
+    
+}
+
+h1{
+    font-size: 40px;    
+    color: rgb(46, 46, 2);
+}
+
